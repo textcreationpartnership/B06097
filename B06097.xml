@@ -1,0 +1,133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To all rulers, magistrates, priests, and people, who profess the Scriptures to be their rule throughout the nation of England, but more particularly to the magistrates, priests and people of this county of Sussex, who have had any hand in oppressing and persecuting of them who God hath sent as strangers amongst them ... / From us who are present sufferers under the cruelty of men in the county gaol of Horsham, whose names are Ambrose Rigge Ambrose Galloway ][ Richard VVebb. James Matthew.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06097</idno>
+            <idno type="STC">Wing T1330A</idno>
+            <idno type="STC">ESTC R185092</idno>
+            <idno type="EEBO-CITATION">47012995</idno>
+            <idno type="OCLC">ocm 47012995</idno>
+            <idno type="VID">174647</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06097)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174647)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2693:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To all rulers, magistrates, priests, and people, who profess the Scriptures to be their rule throughout the nation of England, but more particularly to the magistrates, priests and people of this county of Sussex, who have had any hand in oppressing and persecuting of them who God hath sent as strangers amongst them ... / From us who are present sufferers under the cruelty of men in the county gaol of Horsham, whose names are Ambrose Rigge Ambrose Galloway ][ Richard VVebb. James Matthew.</title>
+                  <author>Rigge, Ambrose, 1635?-1705.</author>
+                  <author>Galloway, Ambrose.</author>
+                  <author>Webb, Richard, fl. 1663.</author>
+                  <author>Matthew, James.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1663]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication taken from Wing (2nd ed.)</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  Persecutions --  England --  17th century.</term>
+               <term>Society of Friends --  Apologetic works --  17th century.</term>
+               <term>Suffolk (England) --  History --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:174647:1" rendition="simple:additions"/>
+            <head>
+               <hi>To all RULERS, MAGISTRATES, PRIESTS, and PEOPLE, WHO Profeſs the Scriptures to be their Rule Throughout the Nation of ENGLAND, BUT</hi> More Particularly to the Magiſtrates, Prieſts, and People of this County of Suſſex, who have had any hand in oppreſſing and perſecuting of them whom God hath ſent as Strangers amongſt them (in tender love and pity to their ſouls) to turn them to righteouſneſs, through which they may ſee how far they are from the Practice &amp; Command of the true Chriſtian, mentioned in the Scriptures of Truth.</head>
+            <p>THroughout all Ages and Generations, he that was born after the Fleſh perſecuted him that was born after the Spirit; even ſo it is now, as this laſt Age ot ours hath fully manifeſted, which hath brought forth much cruelty and Perſecution, which hath been inſticted upon many for the anſwer of a good Conſcience; but more eſpecially upon them whom the Lord hath called from their own Country, to bear witneſs unto his Truth and Righteouſneſs in the earth; for which Teſtimony alone they have undergone a great ſight of affliction from the chief Prieſts and Rulers, throughout moſt Counties of this Nation, as hundreds can witneſs.</p>
+            <p>But now I ſhall unfold the proceedings and dealings of the Prieſts and Rulers of this County of <hi>Suſſex</hi> towards me, who came as a ſtranger amongſt them, not wronging any man of any thing, nor eating any mans bread for nought, but freely declaring the Meſſage of the everlaſting Goſpel amongſt them, according to the Word and Command of God unto me, when he led me from my own Country and Fathers houſe above ſeaven years agoe, much contrary to my own Will: In which Teſtimony the Lord promiſed to be with me in all my tryals and ſufferings, though never ſo many and great, charg<g ref="char:EOLhyphen"/>ing me to take no thought before-hand what I ſhould ſay when I was brought before Rulers and Governours for his Name and Goſpel, for he would direct me in that hour, and give me a mouth and wiſdome to anſwer all my Adverſaries; whoſe Promiſe and Word (I ſet to my Seal) he hath fully performed and confirmed to this very hour; for he never yet ſuffered the Devil to draw me before any Rulers, nor to caſt me into Priſon, but his Pre<g ref="char:EOLhyphen"/>ſence hath been with me, and his right hand hath upheld me, to the confuſion of all my Adverſaries; Glory, Honour, and living Praiſes and Thankſgiving, be unto him for evermore; in whoſe Name I perfectly truſt, and I hope ſhall unto the end, whereby I have been, and am kept ſafe from the fear of evil.</p>
+            <p>I ſhall fully demonſtrate unto all ſober People who hath but the leaſt meaſure of Chriſtianity leſt in them, how far contrary to the Scriptures of truth the Rulers and Prieſts of this County, hath dealt with me for obedience to the above ſaid Word and Command of God; in obedience to which, I came amongſt them as a ſtranger, according to the practiſe of the true Miniſters of Chriſt throughout the Scripture, who vexed and oppressed me contrary to the Word and Command of God, <hi>Exod.</hi> 22. 21. who ſaid to the Rulers of <hi>Iſrael, Thou (halt neither vex a ſtranger nor oppreſſe him, for ye were ſtrangers in the Land of Egypt.</hi> For their diſobedience to which, the wrath of God aroſe againſt his people, till there was no remedy, even be<g ref="char:EOLhyphen"/>cauſe they mocked his Meſſengers, and deſpiſed his Words, and miſuſed his Prophets whom he ſent unto them in compaſſion, as he hath done at this day, 2 <hi>Chron.</hi> 36. 15, 16. And again the Lord warned them not to vex a ſtranger, ſaying, <hi>If a ſtranger ſojourn in your Land, ye ſhall not vex him, but the ſtranger that dwelleth with you, ſhall be as one born amongſt you, and thou ſhalt love him as thyſelf,</hi> Levir. 19. 34. And <hi>Moſes</hi> ſaid, <hi>The Lord doth ex<g ref="char:EOLhyphen"/>ecutre Judgement of the Fatherleſſe and Widdow, and loveth the ſtranger, in giving him food and raiment.</hi> And ſaid, <hi>Love ye therefore the ſtranger, for ye were ſtrangers in the Land of Egypt,</hi> Deut. 10. 18, 19. And <hi>The Lord preſerveth the ſtrangers, and releeveth the fatherleſſe and widdow, but the way of the wicked he turneth upſide down,</hi> Pſal. 146. 9. And Chriſt ſaid to them on his right hand, <hi>Come ye bleſſed of my Father inherit the Kingdome prepared for you, from the foundation of the world; for I was an hungred, and ye gave me meat; I was thirſty, and ye gave me drink; I was a ſtranger, and ye look me in, who anſwered, when ſaw we thee an hungry, and fed thee? or naked, and cloathed thee? or thirſty, and gave thee drink? or a ſtranger, and took thee i<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>? who ſaid, Inaſmuch as you have done it unto the leaſt of theſe my Brethren, you have done it unto me,</hi> Mat. 25. 34, 35, 36, 37; 38, 39, 40. But to the wicked he ſaid, <hi>Depart from me ye curſed into everlaſting fire prepared for the Devil and his Angels; for I was an hungred, and ye gave me no meat; I was thirſty, and ye gave me no drink, I was a Stranger, and ye took me not in</hi>; verſ. 41, 42, 43. who anſwered, <hi>When ſaw we thee an hungred, or ſick, or naked, or a ſtranger, or in priſon, and did not nuniſter unto thee?</hi> but Chriſt ſaid, <hi>Inaſmuch as ye have not done it to the leaſt of theſe, ye did it not to me; and they ſhall go into everlaſting puniſhment, but the righteous into everlaſting life,</hi> verſ. 44, 45. Now it they was to go into everlaſting fire, who had not cloathed, nor fed, nor victed in priſon, the leaſt of the brethren of Chriſt, what ſhall become of ſuch as <hi>Leonard Letchſord of Hurst</hi>; and <hi>George Vinter</hi> of <hi>Coveold,</hi> metamorphoſed Miniſters in <hi>Suſſex,</hi> who inſtead of taking in of his Brethren when they were ſtrangers, and feeding and cloathing of them, hath ſtirred up the Rulers and Magiſtrates through their lyes and falſe reports, to ſend ſuch to priſon, as they have done againſt me? for the aforeſaid <hi>George Vinter</hi> did raiſe a report that <hi>Ambroſe Rigge</hi> did run away from his Wife and Children out of <hi>Lincolnſhire,</hi> and leſt them to the Pariſh, which was as falſe as the Devil, as was afterwards proved by many Witneſſes; yet by this he incenſed the Rulers againſt me, being here a ſtranger; in which falſe aſperſion <hi>Leo: Letchford of Hurſt Picrpoint,</hi> did joyn wich him, and ſtirred up <hi>Niſel Rivers, Walter Burrell,</hi> and <hi>Rich: Bridges,</hi> to ſend for me by Warrant the 28. day of the 3. Month called <hi>May,</hi> in the year 1662. out of my peaceable habitation at <hi>Hurst,</hi> who forthwith committed me to Priſon, wich more of my Friends for the exerciſe of our Conſciences towards God, where they kept us priſoners till the Aſſizes. And then the aforeſaid <hi>Leo: Letchford</hi> appeared againſt us, and incenſed the Judge; inſomuch that he ſined all my Friends, for being met together in the wor<g ref="char:EOLhyphen"/>ſhip of God; and then ſaid to the Judge, One word more to aggravate the matter againſt <hi>Ambroſe Rigge,</hi> for which the Judge reproved him, but yet he knowing that I could not ſwear at all, and being incenſed againſt me, did cauſe the Oath of Allegiance to be tendered me in the Court; and becauſe I could not ſwear at all (in obedience to Chriſt and the Apoſtles Words and Commands, <hi>Mat,</hi> 5. <hi>James</hi> 5.) Judge <hi>Brown</hi> did forthwith Judge me to loſe all my Lands and Tenements, during my life, and all my Goods and Chattels for ever, and to be out of the Kings Protection, and to be im<g ref="char:EOLhyphen"/>priſoned during the Kings pleaſure; and afterwards ſent for the Goaler, and gave him a ſtrict charge to keep me cloſe, in which condition I have continued for the moſt part this ſeaventeen Months, and my Friends who were fined as above, ſome of which hath continued Priſoners to this day with me, in much patience, in many hardſhips, which hath adde affliction to our bonds; but in all, the ſecret hand of God hath upheld us to this day, Glory, Honour, &amp; Praiſes be unto Him for evermore, <hi>whoſe hard is not ſhortned to them who truſt in his name, but makes them as Mount Zion that cannot be moved.</hi>
+            </p>
+            <p>In which long impriſonment <hi>Leonard Letchford</hi> hath often threatned me with the Gallowsin word and writing; and one time ſome of my Friends coming to viſit me, did ask <hi>Leo. Letchford,</hi> if he would come to viſit me? to which be anſwered, If I were to be hanged, he would come to ſee it done. And now of late he hath ſaid, If it come to cutting of Throats, he would cut <hi>Thomas Luxford's</hi> Throat and mine: By which, all people fearing God may Judge, whether this man be not a Murtherer, who would act it himſelf, when he cannot get others to do it for him. This is the entertainment that <hi>Leonard Letchford</hi> gives to ſtrangers, and the love that he hath to his Neighbour. But <hi>Paul,</hi> who was a Miniſter of Chriſt, ſaid, <hi>Be not forgetful to enter<g ref="char:EOLhyphen"/>tain ſtrangers, for thereby ſome have entertained Angels unawares,</hi> Heb. 13. 2, But inſtead of entertaining of ſtrangers, <hi>Leo. Letchford and George Vintor</hi> perſecutes them as Vagrants; by which the impartial Reader will clearly ſee, how far they act contrary to the Scriptures, both of the Old and New Teſtaments; and they may judge whether they are Miniſters of Chriſt, or of Antichriſt.</p>
+            <closer>
+               <signed>From us who are preſent Sufferers under the Cruelty of men in the County Goal in <hi>Horſham,</hi> whoſe Names are Ambroſe Rigge, Richard Webb. Ambrofe Galloway, James Matthew.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
